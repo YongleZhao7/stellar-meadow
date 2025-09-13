@@ -124,30 +124,27 @@ awards:
     date: '2020-12-01'
     awarder: Shenyang Pharmaceutical University
     icon: brands/coursera
-    summary: |
-    prize for hard-working
+    summary:
   - title:  third scholarship
     url: 
     date: '2022-06-15, 2022-12-01'
     awarder: Shenyang Pharmaceutical University
     icon: brands/edx
-    summary: |
-      prizes for learning lessons well
+    summary: 
   - title: 'Academic Scholarship'
     url: 
     certificate_url: 
     date: '2020-06-15'
     awarder: Shenyang Pharmaceutical University
     icon: brands/datacamp
-    summary: |
+    summary:
   - title: 'Advanced Individual'
     url: 
     certificate_url: 
     date: '2020-01-31'
     awarder: Feicheng Library
     icon: brands/datacamp
-    summary: |
-    award for hard-working
+    summary: 
   - title: 'Postgraduate Second Class Academic Scholarship'
     url: 
     certificate_url: 
@@ -155,7 +152,6 @@ awards:
     awarder: ShanDong University
     icon: brands/datacamp
     summary: |
-    award for hard-working
       
     
 ---
