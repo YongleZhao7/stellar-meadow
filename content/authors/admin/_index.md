@@ -125,22 +125,37 @@ awards:
     awarder: Shenyang Pharmaceutical University
     icon: brands/coursera
     summary: |
-      I studied with hard work.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      Recognized for my diligent study and good academic performance, I systematically studied the relevant knowledge of organic chemistry during that term.
+  - title: third scholarship *2
+    url: 
+    date: '2022-06-15, 2022-12-01'
+    awarder: Shenyang Pharmaceutical University
     icon: brands/edx
     summary: |
-      I studied with hard work.
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      Recognized for my diligent study and good academic performance, I have systematically studied the relevant knowledge in pharmacy, including pharmaceutical chemistry, pharmacology, and pharmaceutics.
+  - title: 'Academic Scholarship'
+    url: 
+    certificate_url: https://cy.ncss.cn/memberproject/detail/8a808087737afc7001737ba816a15114
+    date: '2020-06-15'
+    awarder: Shenyang Pharmaceutical University
     icon: brands/datacamp
     summary: |
-      I studied with hard work.
+      Honored for scientific research capabilities, having participated in a national-level university student innovation and entrepreneurship program.
+  - title: 'Postgraduate Second Class Academic Scholarship'
+    url: 
+    date: '2024-10-30'
+    awarder: ShanDong University
+    icon: brands/datacamp
+    summary: |
+      Awarded for diligent study and excellent academic performance, this semester I have acquired the knowledge of organic chemistry and medicinal chemistry necessary for conducting scientific research in medicinal chemistry.
+  - title: 'Academic Scholarship'
+    url: 
+    certificate_url: https://mp.weixin.qq.com/s/oMvUPZxcgRpF8r1fw4GpNw
+    date: '2022-01-31'
+    awarder: Feicheng Library
+    icon: brands/datacamp
+    summary: |
+      Outstanding ability, conscientious and responsible, highly praised by borrowers.
 ---
 
 During my graduate studies, I mainly focused on the research of broad-spectrum antiviral natural nucleoside small molecule drugs. By modifying natural C-nucleoside to enhance their antiviral ability while reducing toxicity, I have completed the synthesis of N1-methyl-pseudouridine derivatives with 4'-modification and is currently working on the modification of Pyrazofurin. In addition, I enjoy photography and watching NBA games. While maintaining a spirit of exploration and rigor in scientific research, I also have a positive and optimistic attitude.
