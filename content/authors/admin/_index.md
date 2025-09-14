@@ -128,7 +128,7 @@ awards:
       Recognized for my diligent study and good academic performance, I systematically studied the relevant knowledge of organic chemistry during that term.
   - title: third scholarship *2
     url: 
-    date: '2022-06-15, 2022-12-01'
+    date: '2022-06-15'
     awarder: Shenyang Pharmaceutical University
     icon: brands/edx
     summary: |
